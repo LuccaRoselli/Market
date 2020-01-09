@@ -1,0 +1,7 @@
+name: yMarket
+main: com.devlucca.ymarket.Main
+version: 1
+commands:
+  mercado:
+    aliases: [market]
+    
